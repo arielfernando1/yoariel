@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-win95",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "^6.1.4"
+  }
+}
